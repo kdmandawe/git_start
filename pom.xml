@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
 	<!-- Random Comment 5 for fetch additional comment-->
+    <!-- comment 1-->
     <groupId>com.kensbunker</groupId>
     <artifactId>mastering-jsf-registration-jar</artifactId>
     <version>1.0-SNAPSHOT</version>
